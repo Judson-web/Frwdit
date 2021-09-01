@@ -5,7 +5,7 @@ class Translation(object):
   START_TXT = """<b>Hai {}!!</b>
 <i>I'm Simple Auto file Forward Bot
 This Bot forward all files to One Public channel to Your Personal channel
-\n maintained by- @peace_fighter_No1
+\n maintained by- @Beluga100000
 More details /help</i>"""
   CAPTION = "`{}`\n\n" + str(Config.f"{file_name} \n ━━━━━━━━━━━━━━━━━━━━
 🔊 Group:
@@ -31,7 +31,7 @@ More details /help</i>"""
   ABOUT_TXT = """<b><u>My Info</b></u>
 
 <b>Name :</b> <code>Auto Forward Bot</code>
-<b>Credit :</b> <code>Dark Angel</code>
+<b>Credit :</b> <code>Beluga</code>
 <b>Language :</b> <code>Python3</code>
 <b>Lybrary :</b> <code>Pyrogram v1.2.9</code>
 <b>Server :</b> <code>Heroku</code>
