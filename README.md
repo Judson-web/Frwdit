@@ -44,4 +44,5 @@ python3 main.py
 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
 * `Special Thanks Group Members`🤣
-* Any Issues And Problems Contact t.me/Beluga100000 
+* Any Issues And Problems Contact https://t.me/Beluga100000 
+
