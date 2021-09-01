@@ -43,6 +43,6 @@ python3 main.py
 ### Credits
 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* `Special Thanks Group Members`🤣
+* `Special Thanks To Group Members`🤣
 * Any Issues And Problems Contact https://t.me/Beluga100000 
 
