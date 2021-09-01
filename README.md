@@ -5,9 +5,8 @@ Without Admin Permission in FROM_CHANNEL
 Only Give Permission In your Telegram Personal Channel
 
 ```
-Please fork this repository don't import code
 Made with Python3
-(C) @DforDarkAngel
+(C) @Beluga
 Copyright permission under GNU GENERAL PUBLIC LICENSE
 ```
 
@@ -33,15 +32,16 @@ python3 main.py
 * `API_ID` Your API ID from my.telegram.org
 * `BOT_TOKEN` Your bot token from @BotFather
 * `OWNER_ID` Must enter Your Telegram Id
-* `FROM_CHANNEL` Enter any public channel eg:- @abcdefgh
+* `FROM_CHANNEL` Enter any public channel eg:- @abcuefgj
 * `TO_CHANNEL` Your Channel ID eg:- -100xxxxxxxx
 * `CAPTION` If you want to add a caption to the forwarded file, enter it here
 * `FILTER_TYPE` Enter Filter type eg:- document or audio or photo or empty
 * `SKIP_NO` Enter File Skiping Number default number '0' 
-* `SESSION` Enter Pyrogram session string [String Generator](https://replit.com/@JijinR/PyroSessionString)
+* `SESSION` Enter Pyrogram session string [String Generator](https://github.com/Judson-web/Frwdit)
 
 
 ### Credits
 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
 * `Special Thanks Group Members`🤣
+* Any Issues And Problems Contact t.me/Beluga100000 
