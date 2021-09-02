@@ -37,7 +37,7 @@ python3 main.py
 * `CAPTION` If you want to add a caption to the forwarded file, enter it here
 * `FILTER_TYPE` Enter Filter type eg:- document or audio or photo or empty
 * `SKIP_NO` Enter File Skiping Number default number '0' 
-* `SESSION` Enter Pyrogram session string [String Generator](https://replit.com/@JijinR/PyroSessionString
+* `SESSION` Enter Pyrogram session string [String Generator](https://replit.com/@JUD-FORFOR/PyroSessionString
 )
 
 
@@ -45,5 +45,3 @@ python3 main.py
 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
 * `Special Thanks To Group Members`🤣
-* Any Issues And Problems Contact https://t.me/Beluga100000 
-
